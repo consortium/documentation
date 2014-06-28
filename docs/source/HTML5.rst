@@ -1,3 +1,13 @@
+=================
+ TypeSetr Markup
+=================
+-----------------------
+ HTML5 internal markup
+-----------------------
+
+HTML5 subset
+============
+
 TypeSetr internal file format HTML5 (subset) storage markup list
 
 May 2014 - manually collated by Simon Worthington. Needs updating and checking to reflect June 6 code push.
@@ -8,21 +18,21 @@ https://github.com/hybrid-publishing-lab/typesetr/blob/master/converter/test/dat
 
 HTML5 examples Internal file format TypeSetr - Git Sample
 
-=========== =====
-Description HTML    
-=========== =====
-Title	title
-Style	style
-	
-Script	script src
-	http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-Meta	meta 
-charset	charset="utf-8"
-name content	
+===========	=============================================================================
+Description	HTML    
+===========	=============================================================================
+Title		title
+Style		style	
+script		script src
+A 			http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+===========	=============================================================================
+
+Meta		meta 
+charset		charset="utf-8"
+name content-	
 	meta name
 html 	html xmlns
 !DOCTYPE html	!DOCTYPE html
-	
 ?xml version="1.0"?	?xml version="1.0"?
 Head	head
 body	body
@@ -40,7 +50,7 @@ H1	h1
 h1 class	h1 class
 H2	h2
 H3	h3
-	MISSING H4
+H4	MISSING H4
 h5	h5
 h6	h6
 Heading grouping	
@@ -62,17 +72,12 @@ dl id	dl id
 dt	
 dt class	dt class
 dd	
-dd class	dd class
-	
-	
+dd class	dd class	
 figure / fig caption	
 figcaption	figcaption
 figure style	figure style
 a	a href
-formula:	formula:\(\sum_{i=0}^N\sqrt{2\pi\sigma^2}\exp(\frac{(x_i-\mu)^2}{\sigma^2})\)
-	
-	
-	
+formula:	formula:\(\sum_{i=0}^N\sqrt{2\pi\sigma^2}\exp(\frac{(x_i-\mu)^2}{\sigma^2})\)	
 em	
 strong	
 small	
@@ -106,9 +111,7 @@ math
 svg	
 Tables	table
 Caption	caption
-colgroup	colgroup
-	
-	
+colgroup	colgroup	
 th class	th class
 	tr
 	td
@@ -122,7 +125,7 @@ ToC
 Index	
 Cover	
 Spine	
-=========== =====	
+
 	
 	
 	
