@@ -1,6 +1,16 @@
-	THE IMPORTANT ONE
-	https://github.com/hybrid-publishing-lab/typesetr/blob/master/converter/test/data/comprehensive-test.odt.html
-HTML5 examples	Internal file format TypeSetr - Git Sample
+TypeSetr internal file format HTML5 (subset) storage markup list
+
+May 2014 - manually collated by Simon Worthington. Needs updating and checking to reflect June 6 code push.
+
+Sample file
+
+https://github.com/hybrid-publishing-lab/typesetr/blob/master/converter/test/data/comprehensive-test.odt.html
+
+HTML5 examples Internal file format TypeSetr - Git Sample
+
+=========== =====
+Description HTML    
+=========== =====
 Title	title
 Style	style
 	
@@ -112,8 +122,7 @@ ToC
 Index	
 Cover	
 Spine	
-	
-	
+=========== =====	
 	
 	
 	
