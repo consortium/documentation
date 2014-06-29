@@ -18,6 +18,8 @@ https://github.com/hybrid-publishing-lab/typesetr/blob/master/converter/test/dat
 
 HTML5 examples Internal file format TypeSetr - Git Sample
 
+NB: use Emacs or tablesgenerator to make text based tables. http://www.tablesgenerator.com/text_tables
+
 +----------------------+-------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------+
 | HTML5 examples       | Internal file - Git Sample                                                    | Internal  - tutorial                                                                      | Output HTML                                             |
 +======================+===============================================================================+===========================================================================================+=========================================================+
