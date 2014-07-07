@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    HTML5
+   OCR_guide
 
 
 
